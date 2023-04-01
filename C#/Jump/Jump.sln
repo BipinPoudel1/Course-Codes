@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jump", "Jump\Jump.csproj", "{2FD33079-DE0D-41D2-BAA1-7775A192D885}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FD33079-DE0D-41D2-BAA1-7775A192D885}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD33079-DE0D-41D2-BAA1-7775A192D885}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD33079-DE0D-41D2-BAA1-7775A192D885}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD33079-DE0D-41D2-BAA1-7775A192D885}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0DF7752A-25F3-4595-B8FF-F47FA770FA46}
+	EndGlobalSection
+EndGlobal
