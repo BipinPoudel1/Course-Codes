@@ -1,3 +1,4 @@
+//C Program to Generate Random Number using Multiplicative Congruential Method
 #include <stdio.h>
 int main()
 {
