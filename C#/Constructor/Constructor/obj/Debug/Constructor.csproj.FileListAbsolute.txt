@@ -6,3 +6,11 @@ D:\Course\6th Sem\NET Centric Computing\C#\Constructor\Constructor\obj\Debug\Con
 D:\Course\6th Sem\NET Centric Computing\C#\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
 D:\Course\6th Sem\NET Centric Computing\C#\Constructor\Constructor\obj\Debug\Constructor.exe
 D:\Course\6th Sem\NET Centric Computing\C#\Constructor\Constructor\obj\Debug\Constructor.pdb
+D:\Course\Course- Codes\C#\Constructor\Constructor\bin\Debug\Constructor.exe.config
+D:\Course\Course- Codes\C#\Constructor\Constructor\bin\Debug\Constructor.exe
+D:\Course\Course- Codes\C#\Constructor\Constructor\bin\Debug\Constructor.pdb
+D:\Course\Course- Codes\C#\Constructor\Constructor\obj\Debug\Constructor.csproj.AssemblyReference.cache
+D:\Course\Course- Codes\C#\Constructor\Constructor\obj\Debug\Constructor.csproj.SuggestedBindingRedirects.cache
+D:\Course\Course- Codes\C#\Constructor\Constructor\obj\Debug\Constructor.csproj.CoreCompileInputs.cache
+D:\Course\Course- Codes\C#\Constructor\Constructor\obj\Debug\Constructor.exe
+D:\Course\Course- Codes\C#\Constructor\Constructor\obj\Debug\Constructor.pdb

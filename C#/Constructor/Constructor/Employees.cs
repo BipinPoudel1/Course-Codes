@@ -17,6 +17,12 @@ namespace Constructor
             Console.WriteLine("This is a first constructor...");
         }
 
+        ~Employees()
+        {
+            Console.WriteLine("Destructor is called.");
+        }
+
+
 
 
         public Employees(int EmpId, string EmpName, int EmpAge) //Parameterized Constructor
@@ -32,35 +38,13 @@ namespace Constructor
             Console.WriteLine("This is 2nd constructor.");
         }
 
-        public int getID()
-        {
-            return this.EmpId;
-        }
-        public string getName()
-        {
-            return this.EmpName;
-        }
-        public int getAge()
-        {
-            return this.EmpAge;
-        }
+       
         static void Main(string[] args)
         {
-            //Employees p = new Employees(111, "Stark", 35);      //Constructor is called whenever an object is created.
-            //Employees e = new Employees(112, "Steve", 45);
-
-            //Console.WriteLine("ID = "+p.getID());
-            //Console.WriteLine("Name = " + p.getName());
-            //Console.WriteLine("Age = " + p.getAge());
-            //Console.WriteLine("****************************");
-            //Console.WriteLine("ID = " + e.getID());
-            //Console.WriteLine("Name = " + e.getName());
-            //Console.WriteLine("Age = " + e.getAge());
 
             Employees p = new Employees();
             Employees q = new Employees(101, "Bipin");
             Employees r = new Employees(102, "Steve", 45);
-
 
 
             Console.ReadKey();
